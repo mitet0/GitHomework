@@ -35,7 +35,6 @@ public class PersonDemo {
 				System.out.println("2 hours overtime sum for " + e.getName() + " is " + e.calculateOvertime(2));
 			}
 		}
-		System.out.println("Test");
 	}
 
 }
